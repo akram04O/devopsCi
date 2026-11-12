@@ -1,4 +1,3 @@
-with:
 name: Test Calculator
 on:
   push:
